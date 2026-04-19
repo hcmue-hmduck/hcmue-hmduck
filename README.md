@@ -1,8 +1,9 @@
 <div align="center">
 
   <img src="https://img.shields.io/badge/-👋%20Hello,%20I'm%20HMDuck-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" alt="Badge" style="padding: 10px; border-radius: 30px; background: linear-gradient(135deg, #667eea, #764ba2);" />
-  <h1>🌌 Welcome to my universe!</h1>
-  <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
+
+  <h1>🚀 Welcome to my developer workspace!</h1>
+  <h3>Backend Developer | TypeScript, Express & DevOps | Open to Opportunities | Node.js & Cloud Enthusiast | Building Scalable Systems</h3>
   
   <br>
   <p>
@@ -18,6 +19,12 @@
 * 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**.
 * 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
 * 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
+
+### 💻 About Me
+
+* 🎯 **Current Focus:** Crafting robust RESTful APIs and scalable backend systems with **Node.js**, **Express.js**, and **TypeScript**.
+* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS)**, **DevOps (Docker, CI/CD)**, and **Web Security**.
+* 🤝 **Collaborations:** Open to discussions on **System Architecture**, **Hybrid Databases (SQL/NoSQL)**, and **
 
 <br>
 
