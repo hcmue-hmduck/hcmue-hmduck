@@ -151,10 +151,8 @@
 
 ### ⏳ Project Progress: Làm biếng vừa thôi...
 <div align="center">
-  <!-- Progress bar dạng badge (shields.io) -->
   <img src="https://img.shields.io/badge/Độ_lười-99%25-aa00ff?style=for-the-badge&logo=progress&logoColor=white&labelColor=333333" alt="Progress 99%" />
   <br/><br/>
-  
-  <!-- Typing effect (dịch vụ ổn định) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Đang+đợi+compiler+chạy+code...;Vừa+đi+pha+cà+phê+vừa+debug;Commit+thành+công!+(Chỉ+thêm+một+dấu+cách);Pull+request+đang+chờ+review...;Tắt+máy+đi+về+thôi!" alt="Typing effect" />
+
+  <img src="https://readme-typing-svg.vercel.app?font=Segoe+UI&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Đang+đợi+compiler+chạy+code...;Vừa+đi+pha+cà+phê+vừa+debug;Commit+thành+công!+(Chỉ+thêm+một+dấu+cách);Pull+request+đang+chờ+review...;Tắt+máy+đi+về+thôi!" alt="Typing SVG" />
 </div>
