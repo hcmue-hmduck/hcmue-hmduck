@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[https://img.shields.io/badge/Hello%2C%20cuong--sadboi-000000?style=for-the-badge&logo=starship&logoColor=white](https://img.shields.io/badge/%F0%9F%91%8B%20Hello%2C%20I'm%20HMDuck-black]" alt="Header" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%8B%20Hello%2C%20I'm%20HMDuck-black">
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
