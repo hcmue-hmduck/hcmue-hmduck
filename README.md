@@ -97,14 +97,19 @@
 
 ---
 
-### 🔧 My Stack & Tools
+### 🔧 Kỹ năng & Công cụ (My Stack & Tools)
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,php,go,ts,kotlin,html,css,js,bootstrap,tailwind,django,dotnet,nextjs,nestjs,mysql,sqlite,git,github,docker&perline=8" />
+  <!-- Lưới 24 icons hoàn hảo (3 hàng x 8 cột) bằng SkillIcons -->
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mysql,mongodb,redis,aws,docker,nginx,ubuntu,angular,tailwind,bootstrap,html,css,cpp,cs,php,git,github,figma,vscode&perline=8" />
+  
   <br><br>
+  
+  <!-- Các công nghệ đặc thù hiển thị bằng Shields.io -->
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
 ---
