@@ -97,7 +97,7 @@
 
 ---
 
-### 🔧 Kỹ năng & Công cụ (My Stack & Tools)
+### 🛠️ Kỹ năng & Công cụ (My Stack & Tools)
 
 <div align="center">
   <!-- Lưới 24 icons hoàn hảo (3 hàng x 8 cột) bằng SkillIcons -->
@@ -116,7 +116,7 @@
 
 ### 📊 GitHub Activity Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cuong-sadboi&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcmue-hmduck&theme=react-dark&hide_border=true&area=true" />
 </div>
 
 ---
