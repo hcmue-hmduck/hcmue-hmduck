@@ -6,7 +6,7 @@
   
   <br>
   <p>
-    <img src="https://komarev.com/ghpvc/?username=cuong-sadboi&color=F700FF" alt="Profile Views" />
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/hcmue-hmduck">
   </p>
   
 </div>
