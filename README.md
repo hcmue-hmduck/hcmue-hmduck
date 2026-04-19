@@ -151,7 +151,10 @@
 
 ### ⏳ Project Progress: Làm biếng vừa thôi...
 <div align="center">
-  <img src="https://progress-bar.dev/99/?title=Độ+lười&width=500&color=aa00ff" alt="Progress Bar Lười" />
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&pause=1000&center=true&vCenter=true&repeat=false&width=500&height=30&lines=%C4%90ang+%C4%91%E1%BB%95i+compiler+ch%E1%BA%A1y+code...;V%E1%BB%ABa+%C4%91i+pha+c%C3%A0+ph%C3%AA+v%E1%BB%ABa+debug;Commit+th%C3%A0nh+c%C3%B4ng!+%28Ch%E1%BB%89+th%C3%AAm+m%E1%BB%99t+d%E1%BA%A5u+c%C3%A1ch%29" alt="Typing effect" />
+  <!-- Progress bar dạng badge (shields.io) -->
+  <img src="https://img.shields.io/badge/Độ_lười-99%25-aa00ff?style=for-the-badge&logo=progress&logoColor=white&labelColor=333333" alt="Progress 99%" />
+  <br/><br/>
+  
+  <!-- Typing effect (dịch vụ ổn định) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Đang+đợi+compiler+chạy+code...;Vừa+đi+pha+cà+phê+vừa+debug;Commit+thành+công!+(Chỉ+thêm+một+dấu+cách);Pull+request+đang+chờ+review...;Tắt+máy+đi+về+thôi!" alt="Typing effect" />
 </div>
