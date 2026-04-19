@@ -150,9 +150,8 @@
 ---
 
 ### ⏳ Project Progress: Làm biếng vừa thôi...
-<div align="center">
+ <div align="center">
   <img src="https://img.shields.io/badge/Độ_lười-99%25-aa00ff?style=for-the-badge&logo=progress&logoColor=white&labelColor=333333" alt="Progress 99%" />
   <br/><br/>
-
-  <img src="https://readme-typing-svg.vercel.app?font=Segoe+UI&weight=500&size=18&pause=1000&center=true&vCenter=true&width=500&height=40&lines=Đang+đợi+compiler+chạy+code...;Vừa+đi+pha+cà+phê+vừa+debug;Commit+thành+công!+(Chỉ+thêm+một+dấu+cách);Pull+request+đang+chờ+review...;Tắt+máy+đi+về+thôi!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.vercel.app?font=Segoe+UI&weight=500&size=18&pause=1000&center=true&vCenter=true&width=680&height=45&lines=Đang+viết+API+mà+quên+validate+input...+%F0%9F%98%85;V%E1%BB%ABa+pha+c%C3%A0+ph%C3%AA+v%E1%BB%ABa+debug+status+500...+%F0%9F%98%85;Fix+bug+th%C3%A0nh+c%C3%B4ng!+(X%C3%B3a+m%E1%BB%99t+d%E1%BA%A5u+c%C3%A1ch)...+%F0%9F%99%82;Ch%E1%BA%A1y+migration+l%C3%A0m+s%E1%BA%ADp+d%E1%BB%AF+li%E1%BB%87u+test...+%F0%9F%98%82;Deploy+l%C3%AAn+localhost+th%C3%A0nh+c%C3%B4ng+sau+10+l%E1%BA%A7n+th%E1%BB%AD...+%F0%9F%98%8C;Ch%E1%BB%9D+b%E1%BA%A1n+nh%C3%B3m+review+code+c%E1%BA%A3+tu%E1%BA%A7n+kh%C3%B4ng+ph%E1%BA%A3n+h%E1%BB%93i...+%F0%9F%98%AA;T%E1%BB%91i+%C6%B0u+query+JOIN+5+b%E1%BA%A3ng+gi%E1%BB%AFa+%C4%91%C3%AAm...+%F0%9F%98%B4;Container+%C4%91ang+build+tr%C3%AAn+RAM+8GB...+l%E1%BA%A1i+out+of+memory...+%F0%9F%98%AB;D%E1%BB%8Dn+log+c%C5%A9+th%E1%BA%A5y+to%C3%A0n+l%E1%BB%97i+do+ch%C3%ADnh+m%C3%ACnh+vi%E1%BA%BFt+t%E1%BB%AB+th%C3%A1ng+tr%C6%B0%E1%BB%9Bc...+%F0%9F%98%82;Ng%E1%BB%93i+c%E1%BA%A3+bu%E1%BB%95i+%C4%91%E1%BB%83+s%E1%BB%ADa+m%E1%BB%99t+d%E1%BA%A5u+ph%E1%BA%A9y+thi%E1%BA%BFu...+%F0%9F%98%91;Đ%E1%BB%9Di+DEV+thi%E1%BB%87t+l%C3%A0+kh%E1%BB%95+nh%C6%B0ng+vui...+%F0%9F%A4%A1" alt="Typing SVG" />
 </div>
