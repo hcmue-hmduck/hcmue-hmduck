@@ -3,7 +3,10 @@
   <img src="https://img.shields.io/badge/-👋%20Hello,%20I'm%20HMDuck-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" alt="Badge" style="padding: 10px; border-radius: 30px; background: linear-gradient(135deg, #667eea, #764ba2);" />
 
   <h1>🚀 Welcome to my developer workspace!</h1>
-  <h3>Backend Developer | TypeScript, Express & DevOps | Open to Opportunities | Node.js & Cloud Enthusiast | Building Scalable Systems</h3>
+  <h3>
+  Backend Developer | Node.js, TypeScript & Express <br>
+  Cloud & DevOps Enthusiast | Building Scalable Systems | Open to Opportunities
+  </h3>
   
   <br>
   <p>
@@ -16,27 +19,21 @@
 
 ### 💻 About Me
 
-* 🎯 **Current Focus:** Crafting applications with **.NET Core**, **Python**, and **React**.
-* 📚 **Learning Next:** Mastering **Cloud Solutions (AWS/GCP)** and **DevOps**.
-* 🤝 **Collaborations:** Open to discussions on **AI/ML**, **Web3**, and **Blockchain**.
-
-### 💻 About Me
-
 * 🎯 **Current Focus:** Crafting robust RESTful APIs and scalable backend systems with **Node.js**, **Express.js**, and **TypeScript**.
 * 📚 **Learning Next:** Mastering **Cloud Solutions (AWS)**, **DevOps (Docker, CI/CD)**, and **Web Security**.
-* 🤝 **Collaborations:** Open to discussions on **System Architecture**, **Hybrid Databases (SQL/NoSQL)**, and **
+* 🤝 **Collaborations:** Open to discussions on **System Architecture**, **Hybrid Databases**, **Real-time Applications**, and **Open Source Contributions**.
 
 <br>
 
 ### 📧 Connect with Me
 <div align="center">
-  <a href="https://github.com/cuong-sadboi">
+  <a href="https://github.com/hcmue-hmduck">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:cuong15122004@gmail.com">
+  <a href="mailto:huynhmyduc2005@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://www.linkedin.com/in/c%C6%B0%E1%BB%9Dng-nguy%E1%BB%85n-ti%E1%BA%BFn-ab7569362/">
+  <a href="www.linkedin.com/in/hcmue-hmduck">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </div>
