@@ -126,34 +126,32 @@
 <div align="center">
 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=cuong-sadboi&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hcmue-hmduck&theme=darkhub&column=6&margin-w=10&margin-h=10&no-bg=true" />
   </a>
   
   <br>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cuong-sadboi&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hcmue-hmduck&show_icons=true&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuong-sadboi&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hcmue-hmduck&layout=compact&theme=synthwave&hide_border=true&border_radius=10&cache_seconds=60" />
   </a>
 
   <br>
 
 <a href="https://github.com/denvercoder1/github-readme-streak-stats">
-  <img src="https://streak-stats.demolab.com?user=cuong-sadboi&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
+  <img src="https://streak-stats.demolab.com?user=hcmue-hmduck&theme=dark&hide_border=true&border_radius=10&background=0D1117&ring=F700FF&fire=F700FF&currStreakLabel=F700FF" />
 </a>
 
 </div>
 
 ---
 
-### 🐍 Fun Fact: Commit Snake
+### ⏳ Project Progress: Làm biếng vừa thôi...
 <div align="center">
-  <img src="https://github.com/cuong-sadboi/cuong-sadboi/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://progress-bar.dev/99/?title=Độ+lười&width=500&color=aa00ff" alt="Progress Bar Lười" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Segoe+UI&weight=500&size=16&pause=1000&center=true&vCenter=true&repeat=false&width=500&height=30&lines=%C4%90ang+%C4%91%E1%BB%95i+compiler+ch%E1%BA%A1y+code...;V%E1%BB%ABa+%C4%91i+pha+c%C3%A0+ph%C3%AA+v%E1%BB%ABa+debug;Commit+th%C3%A0nh+c%C3%B4ng!+%28Ch%E1%BB%89+th%C3%AAm+m%E1%BB%99t+d%E1%BA%A5u+c%C3%A1ch%29" alt="Typing effect" />
 </div>
