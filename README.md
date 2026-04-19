@@ -1,6 +1,7 @@
 <div align="center">
 
   <img alt="Static Badge" src="https://img.shields.io/badge/%F0%9F%91%8B%20Hello%2C%20I'm%20HMDuck-black">
+  ![Hello](https://img.shields.io/badge/👋%20Hello,%20I'm-HMDuck--black-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082&padding=10)
 
   <h1>🌌 Welcome to my universe!</h1>
   <h3>Full-Stack Developer | Tech Enthusiast | Open to Collaboration</h3>
