@@ -7,12 +7,13 @@
   Backend Developer | Node.js, TypeScript & Express <br>
   Cloud & DevOps Enthusiast | Building Scalable Systems | Open to Opportunities
   </h3>
-  
+  <!--
   <br>
+  
   <p>
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/hcmue-hmduck">
   </p>
-  
+  -->
 </div>
 
 ---
@@ -23,9 +24,10 @@
 * 📚 **Learning Next:** Mastering **Cloud Solutions (AWS)**, **DevOps (Docker, CI/CD)**, and **Web Security**.
 * 🤝 **Collaborations:** Open to discussions on **System Architecture**, **Hybrid Databases**, **Real-time Applications**, and **Open Source Contributions**.
 
+<!--
 <br>
 
-### 📧 Connect with Me
+### 📧 Connect with Me-->
 <div align="center">
   <a href="https://github.com/hcmue-hmduck">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -103,9 +105,9 @@
 
 <div align="center">
   <!-- Lưới 24 icons hoàn hảo (3 hàng x 8 cột) bằng SkillIcons -->
-  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mysql,mongodb,redis,aws,docker,nginx,ubuntu,angular,tailwind,bootstrap,html,css,cpp,cs,php,git,github,figma,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mysql,mongodb,redis,aws,docker,nginx,ubuntu,angular,tailwind,bootstrap,html,css,cpp,cs,php,git,github,figma,vscode&perline=12" />
   
-  <br><br>
+  <br>
   
   <!-- Các công nghệ đặc thù hiển thị bằng Shields.io -->
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
