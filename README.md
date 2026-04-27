@@ -104,7 +104,6 @@
 
 
 
-<!--
 ---
 
 ### 🛠️ Kỹ năng & Công cụ (My Stack & Tools)
@@ -120,12 +119,12 @@
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
 </div>
 
----
-
--->
-
 
 <!--
+---
+
+
+
 ### 📊 GitHub Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hcmue-hmduck&theme=react-dark&hide_border=true&area=true" />
