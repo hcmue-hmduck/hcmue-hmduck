@@ -46,6 +46,7 @@
 </div>
 -->
 
+<!--
 ---
 
 ### 🌟 Kỹ năng & Công nghệ (Tech Stack)
@@ -98,18 +99,21 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
 </div>
+-->
 
+
+
+
+<!--
 ---
 
 ### 🛠️ Kỹ năng & Công cụ (My Stack & Tools)
-
 <div align="center">
-  <!-- Lưới 24 icons hoàn hảo (3 hàng x 8 cột) bằng SkillIcons -->
+  
   <img src="https://skillicons.dev/icons?i=ts,js,nodejs,express,postgres,mysql,mongodb,redis,aws,docker,nginx,ubuntu,angular,tailwind,bootstrap,html,css,cpp,cs,php,git,github,figma,vscode&perline=12" />
   
   <br>
   
-  <!-- Các công nghệ đặc thù hiển thị bằng Shields.io -->
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"/>
@@ -117,6 +121,9 @@
 </div>
 
 ---
+
+-->
+
 
 <!--
 ### 📊 GitHub Activity Graph
